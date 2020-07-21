@@ -1,4 +1,4 @@
-# Hello! I'm Felipe Vieira 👋:man_technologist:
+# Hello! I'm Felipe Vieira 👋
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/felipevlima)](https://github.com/felipevlima)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-vieira-a6983513a/)](https://www.linkedin.com/in/felipe-vieira-a6983513a/)
@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.lima@agilize.com.br)](mailto:felipe.lima@agilize.com.br)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/lipe_vlima/)](https://www.instagram.com/lipe_vlima/)
 
-### Welcome to my profile
+### Welcome to my profile :man_technologist:
 
 My name is Felipe and I'm front-end developer.
 
