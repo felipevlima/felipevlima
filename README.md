@@ -9,7 +9,7 @@
 
 My name is Felipe and I'm front-end developer.
 
- 💙  In love with JS/TS<br>
+ 💙  In love with Javascript and Typescrip<br>
  💻  Currently learning React with micro-frontends<br>
  👾  Workint at [@Agilize](https://www.agilize.com.br)<br>
  🇧🇷  Born and livining in Salvador, Brazil <br>
