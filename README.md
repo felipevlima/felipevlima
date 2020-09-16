@@ -14,13 +14,6 @@ My name is Felipe and I'm front-end developer.
  👾  Workint at [@Agilize](https://www.agilize.com.br)<br>
  🇧🇷  Born and livining in Salvador, Brazil <br>
  
-<p align="start">
- <img src="https://github-profile-trophy.vercel.app/?username=felipevlima&column=7&theme=onedark"/>
-</p>
-<p align="start">
- <img src="https://github-readme-stats.vercel.app/api?username=felipevlima&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevlima&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
-
 Some of my passions:
 
 <p align="start">
@@ -41,4 +34,13 @@ Some of my passions:
  <img src="https://devicon.dev/devicon.git/icons/webpack/webpack-plain.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="25px" height="25px"/>
+</p>
+
+And some metrics:
+
+<p align="start">
+ <img src="https://github-profile-trophy.vercel.app/?username=felipevlima&column=7&theme=onedark"/>
+</p>
+<p align="start">
+ <img src="https://github-readme-stats.vercel.app/api?username=felipevlima&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevlima&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
