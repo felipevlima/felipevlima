@@ -17,6 +17,7 @@ My name is Felipe and I'm front-end developer.
 Some of my passions:
 
 <p align="start">
+ <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
@@ -24,7 +25,6 @@ Some of my passions:
  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/babel/babel-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="25px" height="25px"/>
