@@ -9,7 +9,14 @@
 
 My name is Felipe and I'm front-end developer.
 
- 💙  In love with Javascript and Typescript<br>
- 💻  Currently learning React with micro-frontends<br>
+ 💙  In love with <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="20px" height="20px"/> and <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="20px" height="20px"/><br>
+ 💻  Currently learning <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="20px" height="20px"/> with micro-frontends<br>
  👾  Workint at [@Agilize](https://www.agilize.com.br)<br>
  🇧🇷  Born and livining in Salvador, Brazil <br>
+ 
+<p align="start">
+ <img src="https://github-profile-trophy.vercel.app/?username=felipevlima&column=7&theme=onedark"/>
+</p>
+<p align="start">
+ <img src="https://github-readme-stats.vercel.app/api?username=felipevlima&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevlima&layout=compact&theme=tokyonight" alt="languages" height="165">
+</p>
