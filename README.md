@@ -21,7 +21,6 @@ Some of my passions:
  <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/vuejs/vuejs-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
  <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
