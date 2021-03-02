@@ -9,31 +9,10 @@
 
 My name is Felipe and I'm front-end developer.
 
- 💙  In love with <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="20px" height="20px"/> and <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="20px" height="20px"/><br>
+ 💙  In love with JS and TS<br>
  💻  Currently learning <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="20px" height="20px"/> with micro-frontends<br>
  👾  Workint at [@Agilize](https://www.agilize.com.br)<br>
  🇧🇷  Born and livining in Salvador, Brazil <br>
- 
-Some of my passions:
-
-<p align="start">
- <img src="https://devicon.dev/devicon.git/icons/apple/apple-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/typescript/typescript-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/docker/docker-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/babel/babel-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/sequelize/sequelize-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/webpack/webpack-plain.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/yarn/yarn-original.svg" width="25px" height="25px"/>
- <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="25px" height="25px"/>
-</p>
 
 And some metrics:
 
