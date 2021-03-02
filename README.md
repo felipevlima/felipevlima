@@ -10,7 +10,7 @@
 My name is Felipe and I'm front-end developer.
 
  💙  In love with JS and TS<br>
- 💻  Currently learning <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="20px" height="20px"/> with micro-frontends<br>
+ 💻  Currently learning React with micro-frontends<br>
  👾  Workint at [@Agilize](https://www.agilize.com.br)<br>
  🇧🇷  Born and livining in Salvador, Brazil <br>
 
