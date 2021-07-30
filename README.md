@@ -22,6 +22,8 @@ And some metrics:
  <img src="https://github-readme-stats.vercel.app/api?username=felipevlima&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevlima&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
+![Snake animation](https://github.com/felipevlima/felipevlima/blob/output/github-contribution-grid-snake.svg)
+
 <h2>Total de Visitas no Perfil 🕵🏾‍♂️</h2>
 <p align="center">
    <img src="https://profile-counter.glitch.me/felipevlima/count.svg" alt="Contador de Views"> 
