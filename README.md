@@ -9,10 +9,10 @@
 My name is Felipe and I'm front-end developer.
 
  💙  In love with TS<br>
- 💻  Workint at [@Inter🧡](https://www.bancointer.com.br)<br>
- 🇧🇷  Born and livining in Salvador, Brazil <br>
+ 💻  Working at [@Inter🧡](https://www.bancointer.com.br)<br>
+ 🇧🇷  Born and living in Salvador, Brazil <br>
 
-And some metrics:
+And some metrics 📊:
 
 <p align="start">
  <img src="https://github-profile-trophy.vercel.app/?username=felipevlima&column=7&theme=onedark"/>
