@@ -8,8 +8,8 @@
 
 My name is Felipe and I'm front-end developer.
 
- 💙  In love with TS<br>
- 💻  Working at [@Inter🧡](https://www.bancointer.com.br)<br>
+ 💙  Work with TS<br>
+ 💻  Working @ [@Inter🧡](https://www.bancointer.com.br)<br>
  🇧🇷  Born and living in Salvador, Brazil <br>
 
 And some metrics 📊:
