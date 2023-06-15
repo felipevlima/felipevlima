@@ -12,7 +12,7 @@ My name is Felipe and I'm front-end engineer.
 
 ![Snake animation](https://github.com/felipevlima/felipevlima/blob/output/github-contribution-grid-snake.svg)
 
-<h2>Total de Visitas no Perfil 🕵🏾‍♂️</h2>
+<h2>Total Profile Visits 🕵🏾‍♂️</h2>
 <p align="center">
    <img src="https://profile-counter.glitch.me/felipevlima/count.svg" alt="Contador de Views"> 
 </p>
