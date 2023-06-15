@@ -18,7 +18,7 @@ And some metrics 📊:
  <img src="https://github-profile-trophy.vercel.app/?username=felipevlima&column=7&theme=onedark"/>
 </p>
 <p align="start">
- <img src="https://github-readme-stats.vercel.app/api?username=felipevlima&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevlima&layout=compact&theme=tokyonight" alt="languages" height="165">
+ <img src="https://github-readme-stats.vercel.app/api?username=felipevlima&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img style={{ 'width': '100%' }} src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevlima&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
 
 ![Snake animation](https://github.com/felipevlima/felipevlima/blob/output/github-contribution-grid-snake.svg)
