@@ -1,9 +1,7 @@
 # Hello! I'm Felipe Vieira 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-vieira-a6983513a/)](https://www.linkedin.com/in/felipe-vieira-a6983513a/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/felipe_vlima)](https://twitter.com/felipe_vlima)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipe.lima@agilize.com.br)](mailto:felipe.lima@agilize.com.br)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-vieira-a6983513a/)](https://www.linkedin.com/in/felipe-vieira-a6983513a/)
+[![Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:felip.3lima@hotmail.com)](mailto:felip.3lima@hotmail.com)
 ### Welcome to my profile :man_technologist:
 
 My name is Felipe and I'm front-end engineer.
@@ -11,15 +9,6 @@ My name is Felipe and I'm front-end engineer.
  💙  Work with TS<br>
  💻  Working @ [Inter🧡](https://www.bancointer.com.br)<br>
  🇧🇷  Born and living in Salvador, Brazil <br>
-
-And some metrics 📊:
-
-<p align="start">
- <img src="https://github-profile-trophy.vercel.app/?username=felipevlima&column=7&theme=onedark"/>
-</p>
-<p align="start">
- <img src="https://github-readme-stats.vercel.app/api?username=felipevlima&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;<img style={{ 'width': '100%' }} src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipevlima&layout=compact&theme=tokyonight" alt="languages" height="165">
-</p>
 
 ![Snake animation](https://github.com/felipevlima/felipevlima/blob/output/github-contribution-grid-snake.svg)
 
