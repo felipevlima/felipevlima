@@ -6,7 +6,7 @@
 
 ### Welcome to my profile :man_technologist:
 
-My name is Felipe and I'm front-end developer.
+My name is Felipe and I'm front-end engineer.
 
  💙  Work with TS<br>
  💻  Working @ [Inter🧡](https://www.bancointer.com.br)<br>
