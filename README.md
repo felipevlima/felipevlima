@@ -7,7 +7,5 @@
 My name is Felipe and I'm front-end engineer.
 
  💙  Work with TS<br>
- 💻  Working @ [Inter🧡](https://www.bancointer.com.br)<br>
- 🇧🇷  Born and living in Salvador, Brazil <br>
-
-![Snake animation](https://github.com/felipevlima/felipevlima/blob/output/github-contribution-grid-snake.svg)
+ 💻  Working @ [Inter🧡](https://www.inter.co)<br>
+ 🇧🇷  Born and living in Salvador, Brazil
